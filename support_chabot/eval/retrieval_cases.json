@@ -1,0 +1,352 @@
+[
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What is the objective of changing an interest rate?",
+    "expected_document": "Approach Note - Change Interest Rate.docx",
+    "id": "sg-001"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "paraphrase",
+    "question": "Which loans qualify for a rate modification?",
+    "expected_document": "Approach Note - Change Interest Rate.docx",
+    "id": "sg-002"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How is the payment amount calculated after a rate change?",
+    "expected_document": "Approach Note - Change Interest Rate.docx",
+    "id": "sg-003"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What effective date rules apply to an interest rate change?",
+    "expected_document": "Approach Note - Change Interest Rate.docx",
+    "id": "sg-004"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What are the validation errors for an ineligible interest rate change?",
+    "expected_document": "Approach Note - Change Interest Rate.docx",
+    "id": "sg-005"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What is the proposed solution for interest adjustments on loans?",
+    "expected_document": "Approach Note - Interest Adjustments on Loans.docx",
+    "id": "sg-006"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How do interest adjustments behave?",
+    "expected_document": "Approach Note - Interest Adjustments on Loans.docx",
+    "id": "sg-007"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What special scenarios affect interest adjustments?",
+    "expected_document": "Approach Note - Interest Adjustments on Loans.docx",
+    "id": "sg-008"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What system impact is described for interest adjustment?",
+    "expected_document": "Approach Note - Interest Adjustments on Loans.docx",
+    "id": "sg-009"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What needs clarification before implementing interest adjustments?",
+    "expected_document": "Approach Note - Interest Adjustments on Loans.docx",
+    "id": "sg-010"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What is the proposed LF handling for a demand loan?",
+    "expected_document": "Approach Note - Demand Loan.docx",
+    "id": "sg-011"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How is demand loan billing handled?",
+    "expected_document": "Approach Note - Demand Loan.docx",
+    "id": "sg-012"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How are demand loan payments handled?",
+    "expected_document": "Approach Note - Demand Loan.docx",
+    "id": "sg-013"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What happens when a demand loan becomes delinquent?",
+    "expected_document": "Approach Note - Demand Loan.docx",
+    "id": "sg-014"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How is demand loan expiry tracked?",
+    "expected_document": "Approach Note - Demand Loan.docx",
+    "id": "sg-015"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What is in scope for loan conversion?",
+    "expected_document": "Approach Note - Loan Conversion.docx",
+    "id": "sg-016"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What is out of scope for a loan conversion?",
+    "expected_document": "Approach Note - Loan Conversion.docx",
+    "id": "sg-017"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What is the proposed conversion approach?",
+    "expected_document": "Approach Note - Loan Conversion.docx",
+    "id": "sg-018"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What field validations are required during conversion?",
+    "expected_document": "Approach Note - Loan Conversion.docx",
+    "id": "sg-019"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What happens at conversion confirmation?",
+    "expected_document": "Approach Note - Loan Conversion.docx",
+    "id": "sg-020"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "paraphrase",
+    "question": "Can the repayment term be lengthened?",
+    "expected_document": "Approach Note - Loan Tenure Extension.docx",
+    "id": "sg-021"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How is a balloon payment identified?",
+    "expected_document": "Approach Note - Loan Tenure Extension.docx",
+    "id": "sg-022"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What is the process for extending the loan term?",
+    "expected_document": "Approach Note - Loan Tenure Extension.docx",
+    "id": "sg-023"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How is the repayment schedule handled after a tenure extension?",
+    "expected_document": "Approach Note - Loan Tenure Extension.docx",
+    "id": "sg-024"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How does interest accrue during a loan tenure extension?",
+    "expected_document": "Approach Note - Loan Tenure Extension.docx",
+    "id": "sg-025"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How should bankruptcy status be handled?",
+    "expected_document": "LF Handling of Special Status.docx",
+    "id": "sg-026"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How should a deceased borrower status be handled?",
+    "expected_document": "LF Handling of Special Status.docx",
+    "id": "sg-027"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "How is forbearance handled for a loan?",
+    "expected_document": "LF Handling of Special Status.docx",
+    "id": "sg-028"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What is the context for special status handling?",
+    "expected_document": "LF Handling of Special Status.docx",
+    "id": "sg-029"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "direct",
+    "question": "What open points remain for special status?",
+    "expected_document": "LF Handling of Special Status.docx",
+    "id": "sg-030"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What is the prepayment penalty code?",
+    "expected_document": "PrePayment Penalty.xlsx",
+    "id": "sg-031"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What months elapsed bands are in the prepayment penalty calculator?",
+    "expected_document": "PrePayment Penalty.xlsx",
+    "id": "sg-032"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "How is the prepayment penalty multiplier represented?",
+    "expected_document": "PrePayment Penalty.xlsx",
+    "id": "sg-033"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What follow-up questions exist for prepayment penalty?",
+    "expected_document": "PrePayment Penalty.xlsx",
+    "id": "sg-034"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "Where is early payoff penalty defined?",
+    "expected_document": "PrePayment Penalty.xlsx",
+    "id": "sg-035"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What fees are listed for Spring Garden?",
+    "expected_document": "Spring Garden Fees - Final.xlsx",
+    "id": "sg-036"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What is the Fee Final applicability event?",
+    "expected_document": "Spring Garden Fees - Final.xlsx",
+    "id": "sg-037"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "Which fee amount rules are listed in Fee Final?",
+    "expected_document": "Spring Garden Fees - Final.xlsx",
+    "id": "sg-038"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What is the fee recovery mode?",
+    "expected_document": "Spring Garden Fees - Final.xlsx",
+    "id": "sg-039"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "How are fees shown on the statement of account?",
+    "expected_document": "Spring Garden Fees - Final.xlsx",
+    "id": "sg-040"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What fields are in the Collateral Final sheet?",
+    "expected_document": "Collateral Basic Details.xlsx",
+    "id": "sg-041"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "Where is collateral mortgage date recorded?",
+    "expected_document": "Collateral Basic Details.xlsx",
+    "id": "sg-042"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What collateral address fields are present?",
+    "expected_document": "Collateral Basic Details.xlsx",
+    "id": "sg-043"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "Where is the collateral registry number stored?",
+    "expected_document": "Collateral Basic Details.xlsx",
+    "id": "sg-044"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What collateral description fields exist?",
+    "expected_document": "Collateral Basic Details.xlsx",
+    "id": "sg-045"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What does the standard LF collateral sheet say about adding collateral?",
+    "expected_document": "Collateral Standard LF.xlsx",
+    "id": "sg-046"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "How do users add a UCC under collateral?",
+    "expected_document": "Collateral Standard LF.xlsx",
+    "id": "sg-047"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "Where are collateral name and address shown in the standard LF sheet?",
+    "expected_document": "Collateral Standard LF.xlsx",
+    "id": "sg-048"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "How is collateral expanded or collapsed?",
+    "expected_document": "Collateral Standard LF.xlsx",
+    "id": "sg-049"
+  },
+  {
+    "tenant_id": "spring-garden",
+    "category": "excel",
+    "question": "What standard LF collateral summary fields are present?",
+    "expected_document": "Collateral Standard LF.xlsx",
+    "id": "sg-050"
+  }
+]
