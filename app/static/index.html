@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Support Knowledge</title><link rel="stylesheet" href="/static/style.css"></head>
+<body><div class="shell">
+  <aside class="sidebar"><div class="brand"><span class="brand-mark">✦</span><div><strong>Support Knowledge</strong><small>Source grounded answers</small></div></div>
+    <label for="token">Access token</label><input id="token" type="password" autocomplete="off" placeholder="Paste your access token">
+    <button id="connect" class="secondary">Connect</button>
+    <label for="tenant">Tenant</label><select id="tenant" disabled><option>Connect to view tenants</option></select>
+    <button id="new" class="primary" disabled>+ New conversation</button>
+    <div class="section-title">Conversations</div><div id="sessions" class="sessions"></div>
+    <div class="sidebar-foot"><div id="connection">Not connected</div><span>Answers are limited to the selected tenant's files.</span></div>
+  </aside>
+  <main class="main"><header><div><span class="eyebrow">INTERNAL SUPPORT ASSISTANT</span><h1 id="heading">Ask your documents</h1></div><div class="header-right"><span id="tenant-pill" class="pill">No tenant selected</span></div></header>
+    <div id="messages" class="messages"><div class="welcome"><div class="welcome-icon">✦</div><h2>Find the answer in your source documents.</h2><p>Connect, choose a tenant, and ask about procedures, fees, penalties, or workbook values. Each answer shows its source.</p></div></div>
+    <form id="composer" class="composer"><textarea id="question" rows="2" placeholder="Ask a question about this tenant’s documents…" disabled></textarea><div class="composer-row"><span>Enter to send · Shift + Enter for a new line</span><button id="send" type="submit" disabled>Ask <span>↗</span></button></div></form>
+  </main>
+</div><script src="/static/app.js"></script></body></html>
